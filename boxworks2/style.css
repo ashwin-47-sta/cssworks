@@ -1,0 +1,29 @@
+.border{
+    border: solid black 2px;
+}
+
+.parent{
+    background-color: blueviolet;
+    width: 600px;
+    height: 400px;
+
+}
+
+.book{
+
+    background-color: aquamarine;
+    width: 75%;
+    height: 100px;
+}
+.book2{
+    background-color: brown;
+    width: 50%;
+    height: 100px;
+
+}
+
+.book3{
+    background-color: goldenrod;
+    width: 25%;
+    height: 100px;
+}

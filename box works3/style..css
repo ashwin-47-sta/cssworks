@@ -1,0 +1,21 @@
+.box{
+    width: 200px;
+    height: 200px;
+    border: solid black 2px;
+}
+.box0{
+    background-color: grey;
+
+}
+
+.box1{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+.box3{
+    margin-left: auto;
+    background-color: black;
+    color: beige;
+}
